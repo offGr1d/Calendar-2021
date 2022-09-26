@@ -1,0 +1,18 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+img {
+    height: 250px;
+    width: 600px;
+}
+a:active, a:visited, a:link {
+color: lightseagreen;
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: lightseagreen;
+font-size:150%;
+}
